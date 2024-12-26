@@ -40,4 +40,4 @@ Bu projeye katkı sağlamak isterseniz, lütfen bir pull request gönderin.💡
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-9C30FF?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/elfgk)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/elfgkk)
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/27559679/elfgk)
-[![Medium](https://img.shields.io/badge/Medium-00000?style=for-the-badge&logo=medium&logoColor=white)](https://elfgk.medium.com/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://elfgk.medium.com/)
